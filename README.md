@@ -1,4 +1,4 @@
-#ChatGPT-style AI chatbot
+# ChatGPT-style AI chatbot
 
 Built an AI chatbot with support for multi-threaded conversations, chat history, and persistent session memory using SQLite.
 
